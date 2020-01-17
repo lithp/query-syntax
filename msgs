@@ -1,0 +1,8 @@
+message=GetBlockHeaders remote=0x029526@202.79.167.70 block_number_or_hash=9043967
+message=Transactions remote=0x029526@202.79.167.70 count=472
+message=NewBlockHashes remote=0x029526@202.79.167.70 blocknum=9284688
+message=NewBlockHashes remote=0x029526@202.79.167.70 blocknum=9284689
+message=NewBlockHashes remote=0x029526@202.79.167.70 blocknum=9284690
+message=NewBlockHashes remote=0x029526@202.79.167.70 blocknum=9284691
+message=Transactions remote=0x1b9439@80.66.80.22 count=8
+message=NewBlockHashes remote=0x1b9439@80.66.80.221 blocknum=9593232
